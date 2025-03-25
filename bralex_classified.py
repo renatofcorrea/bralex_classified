@@ -211,8 +211,8 @@ def salvar_grafo(G):
 st.title("CNPq/CAPES Classification System of OpenAlex Works")
 
 st.markdown("### Search the OpenAlex works to be classified")
-st.markdown("[https://openalex.org/](https://openalex.org/)")
-st.markdown("[https://docs.openalex.org/how-to-use-the-api/api-overview](https://docs.openalex.org/how-to-use-the-api/api-overview)")
+st.markdown("Use the web search interface: [https://openalex.org/](https://openalex.org/)")
+st.markdown("Or create an API request: [https://docs.openalex.org/how-to-use-the-api/api-overview](https://docs.openalex.org/how-to-use-the-api/api-overview)")
 
 url_api_input = st.text_input("Insert the OpenAlex API URL:")
 
