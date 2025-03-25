@@ -5,3 +5,4 @@ networkx
 matplotlib
 pyvis
 python-louvain
+scipy
