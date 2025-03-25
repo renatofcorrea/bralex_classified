@@ -1,12 +1,12 @@
 # 🧠 BrAlex Classified
 
-**BrAlex Classified** é uma aplicação web interativa para **classificar publicações indexadas no OpenAlex** com base nos sistemas brasileiros de classificação da **CNPq** e do **CAPES**.
+**BrAlex Classified** é uma aplicação web interativa para **classificar publicações indexadas no OpenAlex** com base nos sistemas brasileiros de classificação de áreas do conhecimento do **CNPq** e da **CAPES**.
 
 A ferramenta permite:
-- Classificar artigos por Broad Area, Area, Subarea e Subject
-- Visualizar redes de coocorrência de conceitos
+- Classificar artigos por grande área, área, subárea e especialidade
+- Visualizar redes de coocorrência de áreas nos quatro níveis
 - Exportar os resultados em CSV, GraphML e GEXF
-- Explorar redes interativas com zoom, arrasto e filtros dinâmicos
+- Explorar redes interativas 
 
 ---
 
@@ -49,7 +49,7 @@ streamlit run bralex_classified.py
 
 ## ✍️ Exemplo de uso
 
-1. Insira a URL da API do OpenAlex (ex: com filtro por instituição)
+1. Insira a URL da API do OpenAlex (ex: com filtro por autor, instituição, ano ou busca por palavras-chave)
 2. Clique em **Start Classification**
 3. Visualize a tabela de conceitos classificados
 4. Selecione um nível (Subject, Area, etc.) e clique em **Create Classification Network**
@@ -59,6 +59,6 @@ streamlit run bralex_classified.py
 
 ## 🧠 Sobre
 
-Este projeto tem como objetivo facilitar a análise e visualização de trabalhos científicos brasileiros, aproveitando a base global do [OpenAlex](https://openalex.org/) e os sistemas de classificação nacionais.
+Este projeto tem como objetivo facilitar a avaliação de publicações científicos indexadas no [OpenAlex](https://openalex.org/) a partir de dois sistemas brasileiros de classificação de áreas do conhecimento. 
 
-Desenvolvido com ❤ usando [Streamlit](https://streamlit.io/).
+Desenvolvido por meio do [Streamlit](https://streamlit.io/).
