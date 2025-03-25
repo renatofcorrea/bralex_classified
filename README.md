@@ -59,6 +59,6 @@ streamlit run bralex_classified.py
 
 ## 🧠 Sobre
 
-Este projeto tem como objetivo facilitar a avaliação de publicações científicos indexadas no [OpenAlex](https://openalex.org/) a partir de dois sistemas brasileiros de classificação de áreas do conhecimento. 
+Este projeto tem como objetivo facilitar a avaliação das publicações científicas indexadas no [OpenAlex](https://openalex.org/) a partir de dois sistemas brasileiros de classificação de áreas do conhecimento. 
 
 Desenvolvido por meio do [Streamlit](https://streamlit.io/).
