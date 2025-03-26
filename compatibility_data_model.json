@@ -31867,24 +31867,7 @@
                         "cnpq_id": "7.07.08.00-2",
                         "capes_label": "PSICOLOGIA DO ENSINO E DA APRENDIZAGEM",
                         "capes_id": 70708002,
-                        "concepts": {
-                            "motivation to learn": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q1362435",
-                                    "https://www.wikidata.org/wiki/Q1362435"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/c3018311702",
-                                        "level": 2
-                                    },
-                                    {
-                                        "id": "https://openalex.org/c3018311702",
-                                        "level": 2
-                                    }
-                                ]
-                            }
-                        },
+                        "concepts": {},
                         "subjects": [
                             {
                                 "category": "subject",
@@ -31978,17 +31961,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "Academic standards": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q16154661"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C136287216",
-                                                "level": 3
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -32007,17 +31979,6 @@
                                         "openalex": [
                                             {
                                                 "id": "https://openalex.org/c88610354",
-                                                "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Socratic method": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q839475"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C2801541",
                                                 "level": 2
                                             }
                                         ]
@@ -32215,17 +32176,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "Substance abuse": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q3184856"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C40010229",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -32289,17 +32239,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "Attention deficit hyperactivity disorder": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q181923"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C2780783007",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -32334,14 +32273,9 @@
                                 "concepts": {
                                     "mental disease": {
                                         "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q12135",
                                             "https://www.wikidata.org/wiki/Q12135"
                                         ],
                                         "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c2992895887",
-                                                "level": 2
-                                            },
                                             {
                                                 "id": "https://openalex.org/c2992895887",
                                                 "level": 2
@@ -32362,17 +32296,6 @@
                 "capes_label": "EDUCAÇÃO",
                 "capes_id": 70800006,
                 "concepts": {
-                    "formal learning": {
-                        "wikidata": [
-                            "https://www.wikidata.org/wiki/Q8434"
-                        ],
-                        "openalex": [
-                            {
-                                "id": "https://openalex.org/c2776181820",
-                                "level": 2
-                            }
-                        ]
-                    },
                     "Pedagogy": {
                         "wikidata": [
                             "https://www.wikidata.org/wiki/Q7922"
@@ -32964,17 +32887,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "electric power": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q27137"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c40293303",
-                                                "level": 3
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -32994,17 +32906,6 @@
                                             {
                                                 "id": "https://openalex.org/c2984902100",
                                                 "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "electric power": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q27137"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c40293303",
-                                                "level": 3
                                             }
                                         ]
                                     }
@@ -33030,17 +32931,6 @@
                                         "level": 2
                                     }
                                 ]
-                            },
-                            "Higher education": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q136822"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C120912362",
-                                        "level": 2
-                                    }
-                                ]
                             }
                         },
                         "subjects": [
@@ -33059,17 +32949,6 @@
                                         "openalex": [
                                             {
                                                 "id": "https://openalex.org/c668760",
-                                                "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Higher education": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q136822"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C120912362",
                                                 "level": 2
                                             }
                                         ]
@@ -33160,17 +33039,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "Distance education": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q159595"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C503872463",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -33213,17 +33081,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "rural sector": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q175185"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c2992166763",
-                                                "level": 3
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -33245,17 +33102,6 @@
                                                 "level": 1
                                             }
                                         ]
-                                    },
-                                    "Critical pedagogy": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q1519217"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C25977355",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -33274,17 +33120,6 @@
                                         "openalex": [
                                             {
                                                 "id": "https://openalex.org/c28858896",
-                                                "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Primary education": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q975085"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C10050518",
                                                 "level": 2
                                             }
                                         ]
@@ -33309,17 +33144,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "Physical education": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q243253"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C71406770",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -33338,17 +33162,6 @@
                                         "openalex": [
                                             {
                                                 "id": "https://openalex.org/c668760",
-                                                "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Higher education": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q136822"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C120912362",
                                                 "level": 2
                                             }
                                         ]
@@ -33526,17 +33339,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "Generative grammar": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36108"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C39890363",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -33555,17 +33357,6 @@
                                         "openalex": [
                                             {
                                                 "id": "https://openalex.org/c2778137410",
-                                                "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Generative grammar": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36108"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C39890363",
                                                 "level": 2
                                             }
                                         ]
@@ -33590,17 +33381,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "Generative grammar": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36108"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C39890363",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -33619,17 +33399,6 @@
                                         "openalex": [
                                             {
                                                 "id": "https://openalex.org/c2778137410",
-                                                "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Generative grammar": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36108"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C39890363",
                                                 "level": 2
                                             }
                                         ]
@@ -33677,17 +33446,6 @@
                                         "level": 4
                                     }
                                 ]
-                            },
-                            "Behavioral economics": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q647525"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C109574028",
-                                        "level": 2
-                                    }
-                                ]
                             }
                         },
                         "subjects": [
@@ -33707,17 +33465,6 @@
                                             {
                                                 "id": "https://openalex.org/c177324205",
                                                 "level": 4
-                                            }
-                                        ]
-                                    },
-                                    "Behavioral economics": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q647525"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C109574028",
-                                                "level": 2
                                             }
                                         ]
                                     }
@@ -33741,17 +33488,6 @@
                                                 "level": 4
                                             }
                                         ]
-                                    },
-                                    "Behavioral economics": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q647525"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C109574028",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -33762,19 +33498,7 @@
                                 "cnpq_id": "7.09.03.03-4",
                                 "capes_label": "CONFLITOS E COALIZÕES POLÍTICAS",
                                 "capes_id": 70903034,
-                                "concepts": {
-                                    "political science": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36442"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c17744445",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -33862,14 +33586,9 @@
                                 "concepts": {
                                     "decision process": {
                                         "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q1331926",
                                             "https://www.wikidata.org/wiki/Q1331926"
                                         ],
                                         "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c2984634286",
-                                                "level": 2
-                                            },
                                             {
                                                 "id": "https://openalex.org/c2984634286",
                                                 "level": 2
@@ -33896,17 +33615,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "Institutional theory": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q16252774"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C147887874",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -33918,14 +33626,14 @@
                                 "capes_label": "TÉCNICAS DE ANTECIPAÇÃO",
                                 "capes_id": 70904030,
                                 "concepts": {
-                                    "political science": {
+                                    "institutional analysis": {
                                         "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36442"
+                                            "https://www.wikidata.org/wiki/Q6041185"
                                         ],
                                         "openalex": [
                                             {
-                                                "id": "https://openalex.org/c17744445",
-                                                "level": 0
+                                                "id": "https://openalex.org/c2779508350",
+                                                "level": 2
                                             }
                                         ]
                                     }
@@ -33951,17 +33659,6 @@
                                         "level": 3
                                     }
                                 ]
-                            },
-                            "Neoliberalism (international relations)": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q1417017"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C118589477",
-                                        "level": 2
-                                    }
-                                ]
                             }
                         },
                         "subjects": [
@@ -33981,17 +33678,6 @@
                                             {
                                                 "id": "https://openalex.org/c34355311",
                                                 "level": 3
-                                            }
-                                        ]
-                                    },
-                                    "Neoliberalism (international relations)": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q1417017"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C118589477",
-                                                "level": 2
                                             }
                                         ]
                                     }
@@ -34036,6 +33722,17 @@
                                                 "level": 3
                                             }
                                         ]
+                                    },
+                                    "Conflict resolution": {
+                                        "wikidata": [
+                                            "https://www.wikidata.org/wiki/Q1194317"
+                                        ],
+                                        "openalex": [
+                                            {
+                                                "id": "https://openalex.org/c21711469",
+                                                "level": 2
+                                            }
+                                        ]
                                     }
                                 }
                             },
@@ -34058,14 +33755,14 @@
                                             }
                                         ]
                                     },
-                                    "Neoliberalism (international relations)": {
+                                    "Bilateralism": {
                                         "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q1417017"
+                                            "https://www.wikidata.org/wiki/Q860490"
                                         ],
                                         "openalex": [
                                             {
-                                                "id": "https://openalex.org/C118589477",
-                                                "level": 2
+                                                "id": "https://openalex.org/c2779948448",
+                                                "level": 4
                                             }
                                         ]
                                     }
@@ -34148,17 +33845,6 @@
                                         "level": 1
                                     }
                                 ]
-                            },
-                            "Historical linguistics": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q190375"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C181925144",
-                                        "level": 2
-                                    }
-                                ]
                             }
                         },
                         "subjects": []
@@ -34171,17 +33857,6 @@
                         "capes_label": "FISIOLOGIA DA LINGUAGEM",
                         "capes_id": 80102000,
                         "concepts": {
-                            "ordinary language philosophy": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q1056732"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/c146153142",
-                                        "level": 3
-                                    }
-                                ]
-                            },
                             "Philosophy of language": {
                                 "wikidata": [
                                     "https://www.wikidata.org/wiki/Q484761"
@@ -34189,6 +33864,17 @@
                                 "openalex": [
                                     {
                                         "id": "https://openalex.org/C123556308",
+                                        "level": 3
+                                    }
+                                ]
+                            },
+                            "ordinary language philosophy": {
+                                "wikidata": [
+                                    "https://www.wikidata.org/wiki/Q1056732"
+                                ],
+                                "openalex": [
+                                    {
+                                        "id": "https://openalex.org/c146153142",
                                         "level": 3
                                     }
                                 ]
@@ -34435,17 +34121,6 @@
                                         "level": 2
                                     }
                                 ]
-                            },
-                            "Second-language acquisition": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q1455178"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C170350167",
-                                        "level": 2
-                                    }
-                                ]
                             }
                         },
                         "subjects": []
@@ -34466,17 +34141,6 @@
                                     {
                                         "id": "https://openalex.org/c2781370049",
                                         "level": 3
-                                    }
-                                ]
-                            },
-                            "First language": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q36870"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C171041071",
-                                        "level": 2
                                     }
                                 ]
                             }
@@ -34501,17 +34165,6 @@
                                         "level": 3
                                     }
                                 ]
-                            },
-                            "Literary criticism": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q58854"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C142932270",
-                                        "level": 2
-                                    }
-                                ]
                             }
                         },
                         "subjects": []
@@ -34532,17 +34185,6 @@
                                     {
                                         "id": "https://openalex.org/c28328592",
                                         "level": 2
-                                    }
-                                ]
-                            },
-                            "German literature": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q181287"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C105153381",
-                                        "level": 3
                                     }
                                 ]
                             }
@@ -34633,17 +34275,6 @@
                                         "level": 2
                                     }
                                 ]
-                            },
-                            "Literature": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q8242"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C124952713",
-                                        "level": 1
-                                    }
-                                ]
                             }
                         },
                         "subjects": []
@@ -34668,17 +34299,6 @@
                                 "level": 2
                             }
                         ]
-                    },
-                    "Visual arts": {
-                        "wikidata": [
-                            "https://www.wikidata.org/wiki/Q36649"
-                        ],
-                        "openalex": [
-                            {
-                                "id": "https://openalex.org/C153349607",
-                                "level": 1
-                            }
-                        ]
                     }
                 },
                 "sub_areas": [
@@ -34700,17 +34320,6 @@
                                         "level": 3
                                     }
                                 ]
-                            },
-                            "Art history": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q50637"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C52119013",
-                                        "level": 1
-                                    }
-                                ]
                             }
                         },
                         "subjects": [
@@ -34729,17 +34338,6 @@
                                         "openalex": [
                                             {
                                                 "id": "https://openalex.org/c2780437627",
-                                                "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Work of art": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q838948"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C2779867537",
                                                 "level": 2
                                             }
                                         ]
@@ -34806,17 +34404,6 @@
                                     {
                                         "id": "https://openalex.org/c153349607",
                                         "level": 1
-                                    }
-                                ]
-                            },
-                            "Performing arts": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q184485"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C163286209",
-                                        "level": 2
                                     }
                                 ]
                             }
@@ -34906,14 +34493,9 @@
                                 "concepts": {
                                     "sculpture": {
                                         "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q11634",
                                             "https://www.wikidata.org/wiki/Q11634"
                                         ],
                                         "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c67805463",
-                                                "level": 2
-                                            },
                                             {
                                                 "id": "https://openalex.org/c67805463",
                                                 "level": 2
@@ -34984,17 +34566,6 @@
                                         "level": 3
                                     }
                                 ]
-                            },
-                            "Popular music": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q373342"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C114611597",
-                                        "level": 2
-                                    }
-                                ]
                             }
                         },
                         "subjects": [
@@ -35016,17 +34587,6 @@
                                                 "level": 3
                                             }
                                         ]
-                                    },
-                                    "Popular music": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q373342"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C114611597",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -35045,17 +34605,6 @@
                                         "openalex": [
                                             {
                                                 "id": "https://openalex.org/c118530786",
-                                                "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Profiling (computer programming)": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q1138496"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C187191949",
                                                 "level": 2
                                             }
                                         ]
@@ -35080,17 +34629,6 @@
                                                 "level": 3
                                             }
                                         ]
-                                    },
-                                    "Musical notation": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q233861"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C88639978",
-                                                "level": 3
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -35109,17 +34647,6 @@
                                         "openalex": [
                                             {
                                                 "id": "https://openalex.org/c44819458",
-                                                "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Guitar": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q6607"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C95543465",
                                                 "level": 2
                                             }
                                         ]
@@ -35146,17 +34673,6 @@
                                         "level": 2
                                     }
                                 ]
-                            },
-                            "Modern dance": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q850130"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C32795567",
-                                        "level": 3
-                                    }
-                                ]
                             }
                         },
                         "subjects": [
@@ -35176,17 +34692,6 @@
                                             {
                                                 "id": "https://openalex.org/c147446459",
                                                 "level": 2
-                                            }
-                                        ]
-                                    },
-                                    "Modern dance": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q850130"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C32795567",
-                                                "level": 3
                                             }
                                         ]
                                     }
@@ -35231,17 +34736,6 @@
                                     {
                                         "id": "https://openalex.org/c187745722",
                                         "level": 2
-                                    }
-                                ]
-                            },
-                            "Aesthetics": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q35986"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C107038049",
-                                        "level": 1
                                     }
                                 ]
                             }
@@ -35307,17 +34801,6 @@
                                                 "level": 2
                                             }
                                         ]
-                                    },
-                                    "Painting": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q11629"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C205783811",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -35360,17 +34843,6 @@
                                     {
                                         "id": "https://openalex.org/c530479602",
                                         "level": 2
-                                    }
-                                ]
-                            },
-                            "Italian opera": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q785522"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C140676016",
-                                        "level": 3
                                     }
                                 ]
                             }
@@ -35425,17 +34897,6 @@
                                 "openalex": [
                                     {
                                         "id": "https://openalex.org/c519580073",
-                                        "level": 2
-                                    }
-                                ]
-                            },
-                            "Shopping mall": {
-                                "wikidata": [
-                                    "https://www.wikidata.org/wiki/Q31374404"
-                                ],
-                                "openalex": [
-                                    {
-                                        "id": "https://openalex.org/C2776678367",
                                         "level": 2
                                     }
                                 ]
