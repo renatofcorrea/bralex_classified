@@ -1375,19 +1375,7 @@
                                 "cnpq_id": "1.03.02.01-8",
                                 "capes_label": "MATEMÁTICA SIMBÓLICA",
                                 "capes_id": 10302018,
-                                "concepts": {
-                                    "mathematics": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q395"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c33923547",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -1677,17 +1665,6 @@
                                                 "level": 1
                                             }
                                         ]
-                                    },
-                                    "Computer architecture simulator": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q5157524"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C201203610",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -1728,17 +1705,6 @@
                                             {
                                                 "id": "https://openalex.org/c118524514",
                                                 "level": 1
-                                            }
-                                        ]
-                                    },
-                                    "Computer architecture simulator": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q5157524"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C201203610",
-                                                "level": 2
                                             }
                                         ]
                                     }
@@ -2481,17 +2447,6 @@
                                 "capes_label": "FÍSICA CLÁSSICA E FÍSICA QUÂNTICA; MECÂNICA E CAMPOS",
                                 "capes_id": 10501029,
                                 "concepts": {
-                                    "physics": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q413"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c121332964",
-                                                "level": 0
-                                            }
-                                        ]
-                                    },
                                     "quantum": {
                                         "wikidata": [
                                             "https://www.wikidata.org/wiki/Q46344"
@@ -2597,19 +2552,7 @@
                                 "cnpq_id": "1.05.01.06-1",
                                 "capes_label": "INSTRUMENTAÇÃO ESPECÍFICA DE USO GERAL EM FÍSICA",
                                 "capes_id": 10501061,
-                                "concepts": {
-                                    "physics": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q413"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c121332964",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             }
                         ]
                     },
@@ -4004,19 +3947,7 @@
                                 "cnpq_id": "1.06.01.01-5",
                                 "capes_label": "ESTRUTURA, CONFORMAÇÃO E ESTEREOQUÍMICA",
                                 "capes_id": 10601015,
-                                "concepts": {
-                                    "chemistry": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q2329"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c185592680",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -4185,19 +4116,7 @@
                                 "cnpq_id": "1.06.02.01-1",
                                 "capes_label": "CAMPOS DE COORDENAÇÃO",
                                 "capes_id": 10602011,
-                                "concepts": {
-                                    "chemistry": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q2329"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c185592680",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -4495,19 +4414,7 @@
                                 "cnpq_id": "1.06.03.04-2",
                                 "capes_label": "QUÍMICA DE INTERFACES",
                                 "capes_id": 10603042,
-                                "concepts": {
-                                    "chemistry": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q2329"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c185592680",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -4666,19 +4573,7 @@
                                 "cnpq_id": "1.06.04.02-2",
                                 "capes_label": "MÉTODOS ÓTICOS DE ANÁLISE",
                                 "capes_id": 10604022,
-                                "concepts": {
-                                    "physics": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q413"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c121332964",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -6153,19 +6048,7 @@
                                 "cnpq_id": "1.07.05.05-8",
                                 "capes_label": "GEOECOLOGIA",
                                 "capes_id": 10705058,
-                                "concepts": {
-                                    "geology": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q1069"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c127313418",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -10385,17 +10268,6 @@
                                                 "level": 1
                                             }
                                         ]
-                                    },
-                                    "Civil engineering software": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q5124663"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C206182792",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -10415,17 +10287,6 @@
                                             {
                                                 "id": "https://openalex.org/c147176958",
                                                 "level": 1
-                                            }
-                                        ]
-                                    },
-                                    "Civil engineering software": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q5124663"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C206182792",
-                                                "level": 2
                                             }
                                         ]
                                     }
@@ -10449,17 +10310,6 @@
                                                 "level": 1
                                             }
                                         ]
-                                    },
-                                    "Civil engineering software": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q5124663"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C206182792",
-                                                "level": 2
-                                            }
-                                        ]
                                     }
                                 }
                             },
@@ -10479,17 +10329,6 @@
                                             {
                                                 "id": "https://openalex.org/c147176958",
                                                 "level": 1
-                                            }
-                                        ]
-                                    },
-                                    "Civil engineering software": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q5124663"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/C206182792",
-                                                "level": 2
                                             }
                                         ]
                                     }
@@ -24520,19 +24359,7 @@
                                 "cnpq_id": "6.01.01.03-2",
                                 "capes_label": "TEORIA DO ESTADO",
                                 "capes_id": 60101032,
-                                "concepts": {
-                                    "political science": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36442"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c17744445",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -25579,19 +25406,7 @@
                                 "cnpq_id": "6.03.01.01-5",
                                 "capes_label": "ECONOMIA GERAL",
                                 "capes_id": 60301015,
-                                "concepts": {
-                                    "economics": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q8134"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c162324750",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -30693,19 +30508,7 @@
                                 "cnpq_id": "7.05.04.02-4",
                                 "capes_label": "HISTÓRIA LATINO-AMERICANA",
                                 "capes_id": 70504024,
-                                "concepts": {
-                                    "history": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q309"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c95457728",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             }
                         ]
                     },
@@ -30748,19 +30551,7 @@
                                 "cnpq_id": "7.05.05.01-2",
                                 "capes_label": "HISTÓRIA DO BRASIL COLÔNIA",
                                 "capes_id": 70505012,
-                                "concepts": {
-                                    "history": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q309"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c95457728",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -30769,19 +30560,7 @@
                                 "cnpq_id": "7.05.05.02-0",
                                 "capes_label": "HISTÓRIA DO BRASIL IMPÉRIO",
                                 "capes_id": 70505020,
-                                "concepts": {
-                                    "history": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q309"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c95457728",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -30790,19 +30569,7 @@
                                 "cnpq_id": "7.05.05.03-9",
                                 "capes_label": "HISTÓRIA DO BRASIL REPÚBLICA",
                                 "capes_id": 70505039,
-                                "concepts": {
-                                    "history": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q309"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c95457728",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -30811,19 +30578,7 @@
                                 "cnpq_id": "7.05.05.04-7",
                                 "capes_label": "HISTÓRIA REGIONAL DO BRASIL",
                                 "capes_id": 70505047,
-                                "concepts": {
-                                    "history": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q309"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c95457728",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             }
                         ]
                     },
@@ -31192,19 +30947,7 @@
                                 "cnpq_id": "7.07.01.01-6",
                                 "capes_label": "HISTÓRIA, TEORIAS E SISTEMAS EM PSICOLOGIA",
                                 "capes_id": 70701016,
-                                "concepts": {
-                                    "psychology": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q9418"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c15744967",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -33221,19 +32964,7 @@
                                 "cnpq_id": "7.09.01.01-5",
                                 "capes_label": "TEORIA POLÍTICA CLÁSSICA",
                                 "capes_id": 70901015,
-                                "concepts": {
-                                    "political science": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36442"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c17744445",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -33242,19 +32973,7 @@
                                 "cnpq_id": "7.09.01.02-3",
                                 "capes_label": "TEORIA POLÍTICA MEDIEVAL",
                                 "capes_id": 70901023,
-                                "concepts": {
-                                    "political science": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36442"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c17744445",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -33263,19 +32982,7 @@
                                 "cnpq_id": "7.09.01.03-1",
                                 "capes_label": "TEORIA POLÍTICA MODERNA",
                                 "capes_id": 70901031,
-                                "concepts": {
-                                    "political science": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36442"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c17744445",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             },
                             {
                                 "category": "subject",
@@ -33284,19 +32991,7 @@
                                 "cnpq_id": "7.09.01.04-0",
                                 "capes_label": "TEORIA POLÍTICA CONTEMPORÂNEA",
                                 "capes_id": 70901040,
-                                "concepts": {
-                                    "political science": {
-                                        "wikidata": [
-                                            "https://www.wikidata.org/wiki/Q36442"
-                                        ],
-                                        "openalex": [
-                                            {
-                                                "id": "https://openalex.org/c17744445",
-                                                "level": 0
-                                            }
-                                        ]
-                                    }
-                                }
+                                "concepts": {}
                             }
                         ]
                     },
@@ -35067,6 +34762,97 @@
                         "subjects": []
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "category": "broad area",
+        "cnpq_label": NaN,
+        "cnpq_label_eng": NaN,
+        "cnpq_id": NaN,
+        "capes_label": "MULTIDISCIPLINAR",
+        "capes_id": 90000005,
+        "concepts": {
+            "Multidisciplinary": {
+                "wikidata": [],
+                "openalex": []
+            }
+        },
+        "research_areas": [
+            {
+                "category": "research area",
+                "cnpq_label": NaN,
+                "cnpq_label_eng": NaN,
+                "cnpq_id": NaN,
+                "capes_label": "INTERDISCIPLINAR",
+                "capes_id": 90100000,
+                "concepts": {
+                    "Interdisciplinary": {
+                        "wikidata": [],
+                        "openalex": []
+                    }
+                },
+                "sub_areas": []
+            },
+            {
+                "category": "research area",
+                "cnpq_label": NaN,
+                "cnpq_label_eng": NaN,
+                "cnpq_id": NaN,
+                "capes_label": "ENSINO",
+                "capes_id": 90200000,
+                "concepts": {
+                    "Education": {
+                        "wikidata": [],
+                        "openalex": []
+                    }
+                },
+                "sub_areas": []
+            },
+            {
+                "category": "research area",
+                "cnpq_label": NaN,
+                "cnpq_label_eng": NaN,
+                "cnpq_id": NaN,
+                "capes_label": "MATERIAIS",
+                "capes_id": 90300009,
+                "concepts": {
+                    "Materials Science": {
+                        "wikidata": [],
+                        "openalex": []
+                    }
+                },
+                "sub_areas": []
+            },
+            {
+                "category": "research area",
+                "cnpq_label": NaN,
+                "cnpq_label_eng": NaN,
+                "cnpq_id": NaN,
+                "capes_label": "BIOTECNOLOGIA",
+                "capes_id": 90400003,
+                "concepts": {
+                    "Biotechnology": {
+                        "wikidata": [],
+                        "openalex": []
+                    }
+                },
+                "sub_areas": []
+            },
+            {
+                "category": "research area",
+                "cnpq_label": NaN,
+                "cnpq_label_eng": NaN,
+                "cnpq_id": NaN,
+                "capes_label": "CIÊNCIAS AMBIENTAIS",
+                "capes_id": 90500008,
+                "concepts": {
+                    "Environmental Sciences": {
+                        "wikidata": [],
+                        "openalex": []
+                    }
+                },
+                "sub_areas": []
             }
         ]
     }
